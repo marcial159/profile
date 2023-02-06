@@ -285,7 +285,7 @@ html{
     width: 0%;
     animation: 2s blender forwards;
 }
-@keyframes jblender {
+@keyframes blender {
     0%{width: 0%;}
     100%{width: 75%;}
 }
@@ -309,7 +309,7 @@ html{
     width: 0%;
     animation: 2s python forwards;
 }
-@keyframes jphyton {
+@keyframes python {
     0%{width: 0%;}
     100%{width: 70%;}
 }
@@ -323,9 +323,9 @@ html{
     100%{width: 80%;}
 }.skills .skill .creatividad{
     width: 0%;
-    animation: 2s jcreatividad forwards;
+    animation: 2s creatividad forwards;
 }
-@keyframes jcreatividad {
+@keyframes creatividad {
     0%{width: 0%;}
     100%{width: 80%;}
 }.skills .skill .dedicacion{
