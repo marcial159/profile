@@ -30,6 +30,6 @@ function efectoHabilidades(){
         habilidades[10].classList.add("manager");
     }
 }
-window.onscroll=function(){
+window.onscroll = function(){
     efectoHabilidades();
 }
